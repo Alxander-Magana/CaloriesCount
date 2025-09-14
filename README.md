@@ -110,11 +110,11 @@ cd calories-count
 
 
 ## 👥 Authors
-Cole Daniels
-Alexander Magana
-Tyler Mims
-Parker Schemm
-Caleb Shortt
+- Cole Daniels
+- Alexander Magana
+- Tyler Mims
+- Parker Schemm
+- Caleb Shortt
 
 ## 📄 License
 Copyright (c) Calories Count Team. All rights reserved.
