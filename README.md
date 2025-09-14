@@ -1,12 +1,8 @@
 # Calories Count
 _A simple calorie-counting web application to track daily calories and manage favorite foods._
 
----
-
 ## 📖 Description
 **Calories Count** lets users log foods and track calories throughout the day. Users can create daily goals (lose, maintain, or gain weight), save favorite foods for quick re-adding, and search a foods database by tags or diet types. The app uses React + Vue for frontend, a Kotlin + Spring Boot for backend, and MySQL for database.
-
----
 
 ## 🚀 Features
 - Add foods to the database (name, calories, tags, diet types).
@@ -14,14 +10,10 @@ _A simple calorie-counting web application to track daily calories and manage fa
 - Save favorite foods for fast access.
 - Search foods via tags, diets, or text search.
 
----
-
 ## 🧩 Tech Stack
 - **Frontend:** React + Vue (Node.js / npm)  
 - **Backend:** Kotlin + Spring Boot  
 - **Database:** MySQL
-
----
 
 ## 🖼️ Visuals
 ### Example of nutritional info submenu:
@@ -33,12 +25,8 @@ _A simple calorie-counting web application to track daily calories and manage fa
 ### Multiple profile submenus:
 ![Multiple profile submenus](./docs/cc_profile_submenu.png)
 
----
-
 ## 📘 User Manual
 [User Manual](./docs/UserManual-CaloriesCount.pdf)
-
----
 
 ## ⚙️ Getting started
 
@@ -64,8 +52,6 @@ _A simple calorie-counting web application to track daily calories and manage fa
   - Install from [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
   - Select the installer for your OS
   - **Note:** As of now, Calories Count requires both JDK 21 & 17 to operate. This will hopefully be fixed to only require 21 in the future.
-
----
 
 ### **Setting up Calories Count**
 
